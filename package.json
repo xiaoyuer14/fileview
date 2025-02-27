@@ -1,8 +1,8 @@
 {
-  "name": "mxmweb/fileview",
+  "name": "mxmweb-fv",
   "private": false,
   "author": "hanfeng_Zhang",
-  "version": "1.7.6",
+  "version": "1.7.37",
   "type": "module",
   "scripts": {
     "dev": "vite",
